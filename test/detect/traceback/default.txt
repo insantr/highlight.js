@@ -1,0 +1,3 @@
+2016-06-13 10:10:36 INFO     [web.settings   ] Django settings is set from web.settings.ins
+2016-06-13 10:11:31 INFO     [web.settings   ] Django settings is set from web.settings.ins
+2016-06-13 10:11:39 ERROR    [django.request ] Internal Server Error: /auto/func_area/

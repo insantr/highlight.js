@@ -1,0 +1,16 @@
+
+.hljs-error{
+  color: red;
+}
+
+.hljs-info{
+  color: blue;
+}
+
+.hljs-warning{
+  color: orange;
+}
+
+.hljs-datetime{
+  color: grey;
+}
